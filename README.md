@@ -1,0 +1,1 @@
+# DynamoDB-EDR-Sensor-Data
