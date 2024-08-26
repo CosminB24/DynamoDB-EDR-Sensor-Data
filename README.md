@@ -29,7 +29,6 @@ The project uses a denormalized data structure optimized for efficient querying 
 ### Diagram
 
 ![Schema Diagram](docs/schema.png) 
-(Include the diagram showing table structure and relationships)
 
 ## CloudFormation Template
 
